@@ -5,6 +5,7 @@ echo "\"\$*\"=" "$*"
 echo "\$@=" $@
 echo "\"\$@\"=" "$@"
 
+echo "param length $#"
 
 echo "print each param form \$*"
 for var in $*

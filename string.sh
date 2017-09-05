@@ -1,5 +1,5 @@
 #!/bin/sh
-your_name='chencheng'
+read -p "what's your name?" your_name
 str="hello,I know your are \"$your_name\"! \n" 
 
 #Æ´½Ó×Ö·û´®
